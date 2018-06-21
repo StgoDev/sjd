@@ -1,0 +1,62 @@
+msgid  "January"
+msgstr "Janeiro"
+ 
+msgid  "February"
+msgstr "Fevereiro"
+ 
+msgid  "March"
+msgstr "Março"
+ 
+msgid  "April"
+msgstr "Abril"
+ 
+msgid  "May"
+msgstr "Maio"
+ 
+msgid  "June"
+msgstr "Junho"
+ 
+msgid  "July"
+msgstr "Julho"
+ 
+msgid  "August"
+msgstr "Agosto"
+ 
+msgid  "September"
+msgstr "Setembro"
+ 
+msgid  "October"
+msgstr "Outubro"
+ 
+msgid  "November"
+msgstr "Novembro"
+ 
+msgid  "December"
+msgstr "Dezembro"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "próximo"
+
+msgid "Submit"
+msgstr "Salvar"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Deletar"
+
+msgid "Room"
+msgstr "Sala"
+
+msgid "The student has been saved."
+msgstr "O aluno foi salvo."
+
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr "Página {:page} de {:pages}, mostrando {:current} arquivos de {:count} total, com início em  {:start}, terminando em {:end}"

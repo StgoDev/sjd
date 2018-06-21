@@ -1,0 +1,132 @@
+[05-Apr-2017 10:15:36 America/Fortaleza] PHP Notice:  unserialize(): Error at offset 82 of 11951 bytes in /home/qapne214/public_html/poloparnaiba/lib/Cake/Cache/Engine/FileEngine.php on line 194
+[07-Apr-2017 16:55:04 America/Fortaleza] PHP Notice:  Undefined variable: authUser in /home/qapne214/public_html/poloparnaiba/app/View/Layouts/default.ctp on line 33
+[07-Apr-2017 16:55:17 America/Fortaleza] PHP Notice:  Undefined variable: authUser in /home/qapne214/public_html/poloparnaiba/app/View/Layouts/default.ctp on line 33
+[07-Apr-2017 16:59:11 America/Fortaleza] PHP Notice:  Undefined variable: authUser in /home/qapne214/public_html/poloparnaiba/app/View/Layouts/default.ctp on line 33
+[07-Apr-2017 16:59:13 America/Fortaleza] PHP Notice:  Undefined variable: authUser in /home/qapne214/public_html/poloparnaiba/app/View/Layouts/default.ctp on line 33
+[08-Apr-2017 12:04:11 America/Fortaleza] PHP Fatal error:  Cannot redeclare User::$actsAs in /home/qapne214/public_html/poloparnaiba/app/Model/User.php on line 239
+[08-Apr-2017 12:04:27 America/Fortaleza] PHP Fatal error:  Cannot redeclare User::$actsAs in /home/qapne214/public_html/poloparnaiba/app/Model/User.php on line 239
+[09-Apr-2017 10:52:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 18
+[09-Apr-2017 10:52:58 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 18
+[09-Apr-2017 21:47:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 67
+[09-Apr-2017 21:47:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 67
+[09-Apr-2017 21:48:06 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 67
+[09-Apr-2017 21:48:23 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 67
+[09-Apr-2017 22:12:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Students/view_record.ctp on line 36
+[10-Apr-2017 09:29:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Users/index.ctp on line 34
+[30-May-2017 00:01:54 America/Fortaleza] PHP Fatal error:  Call to a member function create() on null in /home/qapne214/public_html/poloparnaiba/app/Controller/CommentsController.php on line 12
+[04-Jul-2017 11:58:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/qapne214/public_html/poloparnaiba/app/View/StudentsSubjects/pdf/colocacao_pdf.ctp on line 43
+[16-Aug-2017 13:14:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/qapne214/public_html/poloparnaiba/app/View/StudentsSubjects/colocacao.ctp on line 37
+[16-Aug-2017 13:14:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/qapne214/public_html/poloparnaiba/app/View/StudentsSubjects/colocacao.ctp on line 37
+[06-Sep-2017 10:00:26 America/Fortaleza] PHP Fatal error:  Call to a member function get_cellmap() on null in /home/qapne214/public_html/poloparnaiba/app/Vendor/dompdf/include/table_cell_frame_reflower.cls.php on line 31
+[06-Sep-2017 10:01:09 America/Fortaleza] PHP Fatal error:  Call to a member function get_cellmap() on null in /home/qapne214/public_html/poloparnaiba/app/Vendor/dompdf/include/table_cell_frame_reflower.cls.php on line 31
+[06-Sep-2017 10:33:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'setlocale' (T_STRING), expecting ',' or ';' in /home/qapne214/public_html/poloparnaiba/app/View/Students/pdf/boletim_pdf.ctp on line 43
+[11-Sep-2017 17:09:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected ',' in /home/qapne214/public_html/poloparnaiba/app/View/Students/view.ctp on line 76
+[12-Sep-2017 00:00:41 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:02:05 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:02:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:02:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:03:36 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:05:05 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:05:12 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:05:48 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/index.ctp on line 14
+[12-Sep-2017 00:15:24 America/Fortaleza] PHP Fatal error:  Call to a member function parseCriteria() on null in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 28
+[12-Sep-2017 00:44:26 America/Fortaleza] PHP Fatal error:  Call to a member function commonProcess() on null in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsSubjectsController.php on line 25
+[17-Oct-2017 11:24:42 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/qapne214/public_html/poloparnaiba/app/View/Students/add.ctp on line 18
+[17-Oct-2017 11:24:55 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Students/add.ctp on line 18
+[17-Oct-2017 16:53:14 America/Fortaleza] PHP Fatal error:  Unsupported operand types in /home/qapne214/public_html/poloparnaiba/lib/Cake/View/Helper/HtmlHelper.php on line 540
+[17-Oct-2017 16:53:14 America/Fortaleza] PHP Fatal error:  Unsupported operand types in /home/qapne214/public_html/poloparnaiba/lib/Cake/View/Helper/HtmlHelper.php on line 540
+[17-Oct-2017 16:53:19 America/Fortaleza] PHP Fatal error:  Unsupported operand types in /home/qapne214/public_html/poloparnaiba/lib/Cake/View/Helper/HtmlHelper.php on line 540
+[17-Oct-2017 16:53:19 America/Fortaleza] PHP Fatal error:  Unsupported operand types in /home/qapne214/public_html/poloparnaiba/lib/Cake/View/Helper/HtmlHelper.php on line 540
+[17-Oct-2017 17:38:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected ',' in /home/qapne214/public_html/poloparnaiba/app/View/Students/add.ctp on line 22
+[17-Oct-2017 17:38:43 America/Fortaleza] PHP Parse error:  syntax error, unexpected ',' in /home/qapne214/public_html/poloparnaiba/app/View/Students/add.ctp on line 22
+[12-Jan-2018 08:37:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 08:37:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 08:37:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 08:37:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 08:37:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 08:37:32 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 08:38:02 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 08:38:05 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/AppController.php on line 33
+[12-Jan-2018 12:07:55 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Subjects/view.ctp on line 109
+[12-Jan-2018 12:23:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Students/view.ctp on line 141
+[16-Jan-2018 12:52:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Students/view_record.ctp on line 27
+[16-Jan-2018 12:54:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/poloparnaiba/app/View/Students/view_record.ctp on line 37
+[01-Feb-2018 12:27:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/qapne214/public_html/poloparnaiba/app/View/StudentsSubjects/colocacao.ctp on line 33
+[01-Feb-2018 12:27:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/qapne214/public_html/poloparnaiba/app/View/StudentsSubjects/colocacao.ctp on line 33
+[01-Feb-2018 12:27:48 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/qapne214/public_html/poloparnaiba/app/View/StudentsSubjects/colocacao.ctp on line 33
+[15-Feb-2018 12:31:55 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/qapne214/public_html/poloparnaiba/app/View/Subjects/view.ctp on line 107
+[15-Feb-2018 12:32:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/qapne214/public_html/poloparnaiba/app/View/Subjects/view.ctp on line 107
+[15-Feb-2018 12:51:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsSubjectsController.php on line 140
+[15-Feb-2018 12:52:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsSubjectsController.php on line 140
+[16-Feb-2018 09:30:05 America/Fortaleza] PHP Fatal error:  Call to a member function findById() on null in /home/qapne214/public_html/poloparnaiba/app/Controller/ReportsController.php on line 105
+[18-Feb-2018 13:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/qapne214/public_html/poloparnaiba/app/Model/Student.php on line 53
+[19-Feb-2018 00:41:23 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 218
+[19-Feb-2018 00:58:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 129
+[19-Feb-2018 00:59:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/qapne214/public_html/poloparnaiba/app/Controller/StudentsController.php on line 129
+[19-Feb-2018 14:20:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/qapne214/public_html/poloparnaiba/app/Controller/SubjectsController.php on line 105
+[19-Feb-2018 14:21:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected ',', expecting variable (T_VARIABLE) in /home/qapne214/public_html/poloparnaiba/app/Controller/SubjectsController.php on line 105
+[11-Mar-2018 20:10:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Students/add.ctp on line 6
+[11-Mar-2018 20:10:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/poloparnaiba/app/View/Students/add.ctp on line 6
+[06-Jun-2018 02:22:56 America/Fortaleza] PHP Fatal error:  Call to a member function saveField() on null in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 135
+[06-Jun-2018 02:25:13 America/Fortaleza] PHP Fatal error:  Call to a member function saveField() on null in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 135
+[06-Jun-2018 02:25:31 America/Fortaleza] PHP Fatal error:  Call to a member function saveField() on null in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 135
+[06-Jun-2018 02:40:41 America/Fortaleza] PHP Fatal error:  Call to a member function save() on null in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 134
+[06-Jun-2018 18:51:23 America/Fortaleza] PHP Fatal error:  Call to a member function save() on null in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 134
+[06-Jun-2018 18:52:22 America/Fortaleza] PHP Fatal error:  Call to a member function save() on null in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 136
+[06-Jun-2018 18:52:32 America/Fortaleza] PHP Fatal error:  Call to a member function save() on null in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 136
+[06-Jun-2018 18:59:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 139
+[06-Jun-2018 19:05:32 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/qapne214/public_html/sjd/app/Controller/StudentsController.php on line 135
+[11-Jun-2018 19:27:18 America/Fortaleza] PHP Fatal error:  Call to a member function commonProcess() on null in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 28
+[11-Jun-2018 19:27:33 America/Fortaleza] PHP Fatal error:  Call to a member function commonProcess() on null in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 28
+[12-Jun-2018 19:47:10 America/Fortaleza] PHP Fatal error:  Cannot redeclare mostraData() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:40) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 40
+[12-Jun-2018 19:47:15 America/Fortaleza] PHP Fatal error:  Cannot redeclare mostraData() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:40) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 40
+[12-Jun-2018 19:48:23 America/Fortaleza] PHP Fatal error:  Cannot redeclare mostraData() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:40) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 40
+[12-Jun-2018 19:48:49 America/Fortaleza] PHP Fatal error:  Cannot redeclare mostraData() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:40) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 40
+[12-Jun-2018 19:48:56 America/Fortaleza] PHP Fatal error:  Cannot redeclare mostraData() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:40) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 40
+[12-Jun-2018 19:49:07 America/Fortaleza] PHP Fatal error:  Cannot redeclare mostraData() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:40) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 40
+[12-Jun-2018 19:53:18 America/Fortaleza] PHP Fatal error:  Cannot redeclare calcularPrazo() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:41) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 41
+[12-Jun-2018 19:53:22 America/Fortaleza] PHP Fatal error:  Cannot redeclare calcularPrazo() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:41) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 41
+[12-Jun-2018 19:53:32 America/Fortaleza] PHP Fatal error:  Cannot redeclare calcularPrazo() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:41) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 41
+[12-Jun-2018 19:53:47 America/Fortaleza] PHP Fatal error:  Cannot redeclare calcularPrazo() (previously declared in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp:41) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 41
+[12-Jun-2018 19:56:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected '30' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 41
+[12-Jun-2018 19:57:15 America/Fortaleza] PHP Parse error:  syntax error, unexpected '30' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 41
+[12-Jun-2018 20:24:46 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 48
+[12-Jun-2018 20:24:50 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 48
+[12-Jun-2018 20:24:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 48
+[12-Jun-2018 20:24:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 48
+[12-Jun-2018 20:24:58 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 48
+[12-Jun-2018 20:25:01 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 48
+[12-Jun-2018 20:26:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected '<' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 48
+[12-Jun-2018 20:48:21 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[12-Jun-2018 20:48:24 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[12-Jun-2018 20:48:27 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[12-Jun-2018 20:48:29 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[12-Jun-2018 20:48:31 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[12-Jun-2018 20:48:35 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[12-Jun-2018 20:48:50 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[12-Jun-2018 20:48:53 America/Fortaleza] PHP Fatal error:  Call to a member function format() on boolean in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 56
+[14-Jun-2018 09:02:48 America/Fortaleza] PHP Fatal error:  Call to a member function format() on null in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 78
+[14-Jun-2018 14:20:21 America/Fortaleza] PHP Fatal error:  Call to a member function format() on array in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 65
+[14-Jun-2018 14:20:39 America/Fortaleza] PHP Fatal error:  Call to a member function format() on array in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 65
+[14-Jun-2018 14:53:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$intervalo' (T_VARIABLE) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 46
+[14-Jun-2018 14:54:03 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$intervalo' (T_VARIABLE) in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 46
+[14-Jun-2018 19:01:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 59
+[14-Jun-2018 19:01:48 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')' in /home/qapne214/public_html/sjd/app/View/Subjects/index.ctp on line 59
+[14-Jun-2018 19:09:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 34
+[14-Jun-2018 19:09:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 34
+[14-Jun-2018 19:09:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/qapne214/public_html/sjd/app/Controller/SubjectsController.php on line 34
+[14-Jun-2018 21:18:17 America/Fortaleza] PHP Parse error:  syntax error, unexpected ';' in /home/qapne214/public_html/sjd/app/View/Subjects/view.ctp on line 17
+[15-Jun-2018 17:55:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Users/index.ctp on line 17
+[18-Jun-2018 20:01:01 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:01:05 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:01:41 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:02:17 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:02:20 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:02:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:04:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:04:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:04:23 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:04:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:05:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:05:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
+[18-Jun-2018 20:05:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/qapne214/public_html/sjd/app/View/Subjects/edit.ctp on line 10
